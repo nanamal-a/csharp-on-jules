@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "92PuiwMz2jTWT7Ae7yzmsrWkDrRTAOcrbILhE+SMtZk=",
+  "Source": "GrpcSuccessService",
+  "BasePath": "_content/GrpcSuccessService",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

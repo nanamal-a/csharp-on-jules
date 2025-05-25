@@ -1,0 +1,3 @@
+obj/Debug/net8.0/Protos/Success.cs \
+obj/Debug/net8.0/Protos/SuccessGrpc.cs: /home/swebot/.nuget/packages/grpc.tools/2.57.0/build/native/include/google/protobuf/empty.proto\
+ Protos/success.proto
