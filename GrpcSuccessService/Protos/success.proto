@@ -1,0 +1,18 @@
+syntax = "proto3";
+
+import "google/protobuf/empty.proto";
+
+option csharp_namespace = "GrpcSuccessService";
+
+package success;
+
+// The success service definition.
+service SuccessService {
+  // Sends a success message
+  rpc GetSuccess (google.protobuf.Empty) returns (SuccessResponse);
+}
+
+// The response message containing the success string.
+message SuccessResponse {
+  string message = 1;
+}
